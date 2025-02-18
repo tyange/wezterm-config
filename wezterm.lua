@@ -13,7 +13,7 @@ config.cursor_blink_rate = 600
 
 -- 폰트 설정
 config.font = wezterm.font("MonaspiceKr Nerd Font Mono")
-config.font_size = 14.0
+config.font_size = 13.0
 
 -- 컬러 스킴
 config.color_scheme = "Catppuccin Latte"
